@@ -1,0 +1,7 @@
+__pycache__/
+
+sort_env/
+
+models/yolov8x.pt
+
+models/yolov8l.pt
